@@ -3,4 +3,4 @@
 ## exampleproject是一个样例项目，
 * 路径"exampleproject\src\exampleproject"里包含一些测试
 
-## 已提交至仓库https://github.com/nozilch/BeeWare_Analysis的 ljy-1分支
+## 已提交至仓库https://github.com/nozilch/BeeWare_Analysis的 ljy_1分支
